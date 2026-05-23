@@ -21,7 +21,6 @@ Actualmente construyendo y mejorando mis habilidades y proyectos en:
 ## Tecnologías y herramientas
 
 ### Sistemas operativos
-### Sistemas operativos
 
 ![Linux](https://img.shields.io/badge/Linux-Base-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-OS-A81D33?style=for-the-badge&logo=debian&logoColor=white)
