@@ -1,4 +1,4 @@
-<img align='right' src='hollow_knight.png' width='140' height='106' style="marg"/>
+<img align='right' src='hollow_knight.png' width='130' height='96' style="marg"/>
 
 # Manuel Mariscal
 
