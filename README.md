@@ -37,7 +37,6 @@ Actualmente construyendo y mejorando mis habilidades y proyectos en:
 ### Herramientas
 
 ![Nmap](https://img.shields.io/badge/Nmap-navy?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-green?style=for-the-badge&logo=nessus&logoColor=white)
