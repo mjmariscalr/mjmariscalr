@@ -1,4 +1,4 @@
-<img align='right' src='hollow_knight.png' width='120' height='86' style="marg"/>
+<img align='right' src='hollow_knight.png' width='140' height='106' style="marg"/>
 
 # Manuel Mariscal
 
@@ -65,5 +65,7 @@ Mi aprendizaje se basa en:
 
 Todo el contenido publicado tiene fines exclusivamente educativos y de investigación en entornos autorizados.  
 No se promueve ni se permite su uso en sistemas sin permiso explícito.
+
+---
 
 > *`De mayor quiero ser hacker`*
