@@ -55,7 +55,15 @@ Repositorio: [Scripts](https://github.com/mjmariscalr/scripts)
 
 ### Ejercicios de laboratorios y CTFs
 
+Documentación de retos, máquinas vulnerables y laboratorios resueltos durante mi proceso de formación en seguridad ofensiva.
 
+Incluye:
+
+- Write-ups de máquinas de práctica.
+- Resolución de desafíos de Capture The Flag (CTF).
+- Enumeración y explotación de vulnerabilidades en entornos controlados.
+
+Repositorio: [Labs](https://github.com/mjmariscalr/labs)
 
 ### Notas técnicas y documentación de aprendizaje
 
