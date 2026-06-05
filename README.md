@@ -51,7 +51,7 @@ Actualmente construyendo y mejorando mis habilidades y proyectos en:
 
 Colección de scripts desarrollados para automatizar tareas habituales durante evaluaciones de seguridad y procesos de aprendizaje en ciberseguridad ofensiva. El objetivo de estos proyectos es mejorar la eficiencia en fases de reconocimiento, enumeración, análisis y validación de hallazgos.
 
-Repositorio: [Scripts](./scripts)
+Repositorio: [Scripts](https://github.com/mjmariscalr/scripts)
 
 ### Ejercicios de laboratorios y CTFs
 
