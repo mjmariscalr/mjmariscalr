@@ -67,10 +67,11 @@ Repositorio: [Labs](https://github.com/mjmariscalr/labs)
 
 ### Notas técnicas y documentación de aprendizaje
 
+Repositorio personal de apuntes y documentación técnica elaborada durante mi formación en ciberseguridad con el objetivo de consolidar conocimientos y servir como referencia. La documentación se actualiza de forma continua conforme avanzo en mi aprendizaje.
 
+Actualmente el repositorio se encuentra centrado en mi preparación de cara a la certificación eJPT.
 
-
-###
+Repositorio: [eJPT](https://github.com/mjmariscalr/ejpt)
 
 ## Metodología de trabajo
 
