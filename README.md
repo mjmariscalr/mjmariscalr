@@ -10,10 +10,10 @@ Ingeniero informático y estudiante de ciberseguridad con enfoque en **pentestin
 
 Actualmente construyendo y mejorando mis habilidades y proyectos en:
 
-- Pentesting web y de redes  
-- Enumeración y análisis de superficies de ataque  
-- Explotación básica de vulnerabilidades  
-- Automatización con scripting  
+- Pentesting web y de redes
+- Enumeración y análisis de superficies de ataque
+- Explotación básica de vulnerabilidades
+- Automatización con scripting
 - Administración y hardening de sistemas Linux
 - Aprendizaje automático aplicado a problemas de ciberseguridad
 
@@ -47,18 +47,30 @@ Actualmente construyendo y mejorando mis habilidades y proyectos en:
 
 ## Contenido
 
-- Scripts de automatización aplicados a pentesting  
-- Herramientas simples desarrolladas a nivel junior  
-- Ejercicios de laboratorios y CTFs  
-- Notas técnicas y documentación de aprendizaje  
+### Scripts de automatización aplicados a pentesting
+
+Colección de scripts desarrollados para automatizar tareas habituales durante evaluaciones de seguridad y procesos de aprendizaje en ciberseguridad ofensiva. El objetivo de estos proyectos es mejorar la eficiencia en fases de reconocimiento, enumeración, análisis y validación de hallazgos.
+
+Repositorio: [Scripts](./scripts)
+
+### Ejercicios de laboratorios y CTFs
+
+
+
+### Notas técnicas y documentación de aprendizaje
+
+
+
+
+###
 
 ## Metodología de trabajo
 
 Mi aprendizaje se basa en:
 
-- Práctica en entornos controlados (laboratorios y CTFs)  
-- Aprendizaje basado en implementación  
-- Documentación constante de procesos y resultados  
+- Práctica en entornos controlados (laboratorios y CTFs)
+- Aprendizaje basado en implementación
+- Documentación constante de procesos y resultados
 
 ## Ética
 
