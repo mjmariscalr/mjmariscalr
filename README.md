@@ -22,8 +22,7 @@ Actualmente construyendo y mejorando mis habilidades y proyectos en:
 
 ### Sistemas operativos
 
-![Linux](https://img.shields.io/badge/Linux-Base-333333?style=for-the-badge&logo=linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-OS-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Base-333333?style=for-the-badge&logo=linux&logoColor=white)![Debian](https://img.shields.io/badge/Debian-OS-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
