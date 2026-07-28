@@ -22,34 +22,26 @@ Actualmente construyendo y mejorando mis habilidades y proyectos en:
 
 ### Sistemas operativos
 
-<p align="left">
-	<img src="https://img.shields.io/badge/Linux-Base-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-	<img src="https://img.shields.io/badge/Debian-OS-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-	<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-	<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-	<img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows" />
-	<img src="https://img.shields.io/badge/Windows%20Server-2008%20%2F%202012%20%2F%202016-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-Base-333333?style=for-the-badge&logo=linux&logoColor=white)![Debian](https://img.shields.io/badge/Debian-OS-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2008%20%2F%202012%20%2F%202016-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Lenguajes
-
-<p align="left">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-	<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Herramientas
 
-<p align="left">
-	<img src="https://img.shields.io/badge/Nmap-navy?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-	<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-	<img src="https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-	<img src="https://img.shields.io/badge/Nessus-green?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus" />
-	<img src="https://img.shields.io/badge/OWASP-5649A3?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+![Nmap](https://img.shields.io/badge/Nmap-navy?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-green?style=for-the-badge&logo=nessus&logoColor=white)
+![Owasp](https://img.shields.io/badge/Owasp-5649A3?style=for-the-badge&logo=owasp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!-- ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white) -->
 
 ## Contenido
