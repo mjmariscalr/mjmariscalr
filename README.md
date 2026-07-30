@@ -72,6 +72,12 @@ Actualmente el repositorio se encuentra centrado en mi preparación de cara a la
 
 Repositorio: [eJPT](https://github.com/mjmariscalr/ejpt)
 
+### Estudio comparativo de métodos de aprendizaje automático en la detección de malware
+
+Este proyecto compara distintos algoritmos de aprendizaje automático para la detección de malware, utilizando bases de datos públicas previamente preprocesadas y optimizadas. Se aplica un protocolo experimental con ajuste de hiperparámetros, validación cruzada y múltiples repeticiones para garantizar resultados reproducibles. Finalmente, se evalúa el rendimiento de los modelos en términos de precisión, eficiencia y coste computacional, identificando los enfoques más adecuados para este problema.
+
+Repositorio: [TFG](https://github.com/mjmariscalr/tfg)
+
 ## Metodología de trabajo
 
 Mi aprendizaje se basa en:
